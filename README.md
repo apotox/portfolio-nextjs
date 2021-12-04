@@ -1,4 +1,4 @@
-## Nextjs mini Portfilio!
+## Nextjs mini Portfolio!
 
 generate a Nextjs portfolio by scraping the Github's pinned repositories
 
